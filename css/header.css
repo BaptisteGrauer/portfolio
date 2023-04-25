@@ -17,6 +17,7 @@ header *{
     border: 2px solid #fff;
     border-radius: 40px;
     color: #0ff;
+    text-align: center;
     transition: .15s;
     display:flex;
     align-items: center;
@@ -49,6 +50,8 @@ header *{
     flex-direction: column;
 }
 .bouton{
+    text-align: center;
+    align-self: center;
     font-size: 20px;
     border-radius: 20px;
     transition:.1s;
