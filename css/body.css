@@ -88,15 +88,17 @@ a.paragraphe > p{
 }
 a.paragraphe:hover{
     border-color: #fff;
+    box-shadow: 0 0 15px #fff;
 }
 .paragraphe > a{
     color: #0ff;
 }
 .paragraphe:hover{
-    z-index: 1;
+    z-index: 7;
     scale:105%;
     background-color: #222;
     border-color: #0f0;
+    box-shadow: 0 0 15px #0f0;
 }
 .paragraphe:hover > h2{
     color: #0ff;
@@ -148,10 +150,11 @@ a.paragraphe:hover{
     color: #0ff;
 }
 .paragraphe_important:hover{
-    z-index: 1;
+    z-index: 7;
     scale:105%;
     background-color: #222;
     border-color: #0ff;
+    box-shadow: 0 0 15px #0ff;
 }
 .paragraphe_important:hover > a:hover{
     color: #0f0;
