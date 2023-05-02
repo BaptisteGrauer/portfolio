@@ -159,3 +159,6 @@ a.paragraphe:hover{
 .paragraphe_important:hover > a:hover{
     color: #0f0;
 }
+.video{
+    border: 1px solid #fff;
+}
