@@ -22,6 +22,10 @@
             <a href="annexes/portfolio.php" class="paragraphe">
                 <h2>Portfolio</h2>
             </a>
+            <div class="paragraphe">
+                <h2>Note :</h2>
+                <p>Ce site est toujours en cours de construction, donc incomplet. Revenez ici régulièrement pour ne rien manquer.</p>
+            </div>
             <a href="annexes/projets.php" class="paragraphe">
                 <h2>Projets</h2>
             </a>
